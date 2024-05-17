@@ -2,6 +2,8 @@
 
 The primary objective of this project is to develop a IPL dashboard for season 2008 to 2022 to have a detailed insights.
 
+Tools used: MySQL, Microsoft Excel, Microsoft Power BI
+
 Steps includes:
 1. Import Data in MySQL server
 2. Connecting Power BI to Database
